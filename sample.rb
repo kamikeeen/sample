@@ -1,5 +1,1 @@
-def hello
-  p "hello, GitHub Desktop."
-end
-
-hello
+書き直し
